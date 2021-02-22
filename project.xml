@@ -1,12 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.0.0</version> 
+        <version>2.0.0.0</version> 
         <url>https://raw.githubusercontent.com/iH8Fr0st94/Dev/main/Xero.exe</url>
         <filePath>./Xero.exe</filePath>
-        <md5>0A48AC68ACA62F186ECB13541DBA41CC</md5>
+        <md5>831CA483AF88B0BF7B81E89BCE34684A</md5>
         <description>Update: 22/02/2021:
-        1. Test!!
+        1. Added better security!!
         </description> 
       <launchArgs></launchArgs> 
     </update>
