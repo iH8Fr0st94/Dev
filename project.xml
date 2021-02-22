@@ -4,9 +4,12 @@
         <version>2.0.0.0</version> 
         <url>https://raw.githubusercontent.com/iH8Fr0st94/Dev/main/Xero.exe</url>
         <filePath>./Xero.exe</filePath>
-        <md5>65A227C0E0D66A307DB3BB1AC50B3098</md5>
-        <description>Update: 22/02/2021:
-        1. Fixed form bug!</description> 
-        <launchArgs></launchArgs> 
+        <md5>DCE1060C8CF022D3031939C6347EAAC2</md5>
+        <description>
+        Update: 22/02/2021:
+        1. Added program icon!
+        2. Fixed some code in game editor [MHW]!
+        </description> 
+      <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
