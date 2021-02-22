@@ -1,12 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>3.0.0.0</version> 
+        <version>1.0.0.0</version> 
         <url>https://raw.githubusercontent.com/iH8Fr0st94/Dev/main/Xero.exe</url>
         <filePath>./Xero.exe</filePath>
-        <md5>B2FD642242785CC7EB39A82DDF69F627</md5>
+        <md5>0A48AC68ACA62F186ECB13541DBA41CC</md5>
         <description>Update: 22/02/2021:
-        1. Removed program icon!!
+        1. Test!!
         </description> 
       <launchArgs></launchArgs> 
     </update>
