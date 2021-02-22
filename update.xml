@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<sharpUpdate>
-  <update appId="Xero">
-    <version>2.0.0.0</version>
-    <file>
-      <url>https://raw.githubusercontent.com/iH8Fr0st94/testing/main/Xero.exe</url>
-      <filename>Xero.exe</filename>
-      <md5>a2891b81344d8efb1587f110a16f5e7d</md5>
-    </file>
-    <description>Fixed icon.</description>
-    <launchArgs>
-    </launchArgs>
-  </update>
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update> 
+        <version>2.0.0.0</version> 
+        <url>https://raw.githubusercontent.com/iH8Fr0st94/testing/main/Xero.exe</url> 
+        <filePath>/Xero.exe</filePath>
+        <md5></md5>
+        <description>test</description> 
+        <launchArgs></launchArgs> 
+    </update>
 </sharpUpdate>
