@@ -6,7 +6,7 @@
         <filePath>./Xero.exe</filePath>
         <md5>65A227C0E0D66A307DB3BB1AC50B3098</md5>
         <description>Update: 22/02/2021:
-        1. Fixed form bug.</description> 
+        1. Fixed form bug!</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
