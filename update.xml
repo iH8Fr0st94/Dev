@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<sharpUpdate>
+  <update appId="Xero">
+    <version>1.0.0.0</version>
+    <file>
+      <url>https://raw.githubusercontent.com/iH8Fr0st94/testing/main/Xero.exe</url>
+      <filename>Xero.exe</filename>
+      <md5>689c240372e5ea82ccb8861d35f5c9c8</md5>
+    </file>
+    <description>
+    </description>
+    <launchArgs>
+    </launchArgs>
+  </update>
+</sharpUpdate>
